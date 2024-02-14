@@ -32,16 +32,17 @@ This repository contains the data and analysis scripts used to investigate suici
   Information about the license under which the data and analysis are shared.
   Any usage restrictions or permissions required.
   
-## How to Use:
+## ***How to Use:***
 
 Clone or download the repository to your local machine.
 Review the README.md for instructions and insights.
 Explore the data files to understand the variables and structure.
 Run the analysis script to reproduce the findings or modify as needed.
 Use the results and visualizations for further research or reporting.
-Contributing:
 
-## Contributions are welcome via pull requests.
+## ***Contributing:***
+
+Contributions are welcome via pull requests.
 Suggestions, bug fixes, additional analysis, or insights are appreciated.
 Please adhere to the contribution guidelines outlined in the repository.
 
