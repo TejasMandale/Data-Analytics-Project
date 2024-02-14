@@ -7,44 +7,44 @@ This repository contains the data and analysis scripts used to investigate suici
 
 ### 1. Data:
 
-  Raw data files in CSV format.
-  Data dictionary explaining the variables and their definitions.
+  * Raw data files in CSV format.
+  * Data dictionary explaining the variables and their definitions.
   
 ### 2. Analysis Scripts:
 
-  Jupyter notebook or R script containing the analysis process.
-  Python or R libraries used for data manipulation, visualization, and statistical analysis.
+  * Jupyter notebook or R script containing the analysis process.
+ *  Python or R libraries used for data manipulation, visualization, and statistical analysis.
   
 ### 3. Results:
 
-  Summary of key findings from the analysis.
-  Visualizations such as graphs, charts, and tables to illustrate trends and patterns.
+ *  Summary of key findings from the analysis.
+ *  Visualizations such as graphs, charts, and tables to illustrate trends and patterns.
   
 ### 4. README.md:
 
-  Overview of the repository.
-  Instructions on how to use the data and reproduce the analysis.
-  Description of the methodology and statistical techniques employed.
-  Interpretation of results and insights gained from the analysis.
+  * Overview of the repository.
+  * Instructions on how to use the data and reproduce the analysis.
+  * Description of the methodology and statistical techniques employed.
+  * Interpretation of results and insights gained from the analysis.
 
 ### 5. License:
 
-  Information about the license under which the data and analysis are shared.
-  Any usage restrictions or permissions required.
+  * Information about the license under which the data and analysis are shared.
+  * Any usage restrictions or permissions required.
   
 ## ***How to Use:***
 
-Clone or download the repository to your local machine.
-Review the README.md for instructions and insights.
-Explore the data files to understand the variables and structure.
-Run the analysis script to reproduce the findings or modify as needed.
-Use the results and visualizations for further research or reporting.
+* Clone or download the repository to your local machine.
+* Review the README.md for instructions and insights.
+* Explore the data files to understand the variables and structure.
+* Run the analysis script to reproduce the findings or modify as needed.
+* Use the results and visualizations for further research or reporting.
 
 ## ***Contributing:***
 
-Contributions are welcome via pull requests.
-Suggestions, bug fixes, additional analysis, or insights are appreciated.
-Please adhere to the contribution guidelines outlined in the repository.
+* Contributions are welcome via pull requests.
+* Suggestions, bug fixes, additional analysis, or insights are appreciated.
+* Please adhere to the contribution guidelines outlined in the repository.
 
 
 
