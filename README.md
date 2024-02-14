@@ -45,13 +45,8 @@ Contributing:
 Suggestions, bug fixes, additional analysis, or insights are appreciated.
 Please adhere to the contribution guidelines outlined in the repository.
 
-## References:
 
-Include any references to the original data source(s) or related literature.
-Acknowledge any third-party libraries or resources used in the analysis.
-## Contact:
 
-Provide contact information for inquiries, feedback, or collaboration opportunities.
 
 > [!NOTE]
 
